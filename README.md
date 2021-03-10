@@ -1,8 +1,6 @@
 # Recommendation System 
 Note: Repository ini hasil fork dari https://github.com/WiraDKP/recommendation_system.git
 
-Setelah kita selesai mempelajari [Course 7](https://www.github.com/wiradkp/unsupervised_learning). Sekarang kita masuk ke Course 8, yaitu sistem rekomendasi.
-
 # Starter Guide
 ## Step 1: Download materi
     ```
